@@ -19,11 +19,15 @@ dependencies:
   dio: ^5.0.0
   uuid: ^3.0.7
   flutter_osm_interface:
+    git: 
       url: git@github.com:akvus/osm_flutter.git
       path: flutter_osm_interface
+      ref: master
   flutter_osm_web:
+    git: 
       url: git@github.com:akvus/osm_flutter.git
       path: flutter_osm_web
+      ref: master
 dev_dependencies:
   flutter_test:
     sdk: flutter
