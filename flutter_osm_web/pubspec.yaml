@@ -19,7 +19,7 @@ dependencies:
     git: 
       url: git@github.com:akvus/osm_flutter.git
       path: flutter_osm_interface
-      ref: master
+      ref: test
 dev_dependencies:
   flutter_test:
     sdk: flutter
